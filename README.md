@@ -8,4 +8,4 @@ Course prepared for [Sofia University](https://www.sofia.edu): Palo Alto facilit
 ## Course program
 | N  | Lecture       | Desctription                                 | 
 | -- | ------------- | -------------                                | 
-| 01 | [Introduction, Supervised Learning, and Overfitting](/lectures/lecture01_autumn.pdf)    | Introduction. Course logistics and syllabus. Historical reference. ML Paradigms |
+| 01 | [Introduction](/lectures/lecture01_autumn.pdf)    | Introduction. Course logistics and syllabus. Historical reference. ML Paradigms |
